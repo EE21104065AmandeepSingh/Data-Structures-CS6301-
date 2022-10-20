@@ -1,0 +1,32 @@
+Name : Amandeep Singh
+SID : 21104065
+Branch : Electrical Engineering
+Assignment - 3
+
+Ans 1 :
+In-place means that the algorithm does not use extra space for 
+manipulating the input but may require a small though non-constant 
+extra space for its operation. Usually, this space is O(log n), though 
+sometimes anything in O(n) (Smaller than linear) is allowed.
+
+Examples of in place Sorting Algorithms:-
+-Bubble Sort
+-Heap Sort
+-Insertion Sort
+-Quick Sort
+-Selection sort
+
+Examples of not in place Algorithms :-
+-Merge Sort
+-Radix Sort
+
+--------------------------------------------------------------------------------
+Ans 3 :
+Some real life example of Inplace are:
+1. In windows explorer when we sort the files according to date or size or time
+2. When we change the order of pages in a PDF 
+3. When we change the order of slides in a presentation
+
+Some real life examples of out place:
+ a. The function which runs on call by value uses a copy of the parameter to do 
+ b. its processing and then return that copy.
